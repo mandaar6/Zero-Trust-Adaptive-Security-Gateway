@@ -89,6 +89,4 @@ Derived policies are automatically converted into **Snort IDS rules**, including
 - **Traffic volume anomalies**  
   Alerts when response sizes exceed learned thresholds
 
-Generated rules are exported to:
-```text
-ztasg.rules
+Generated rules are exported to: ztasg.rules
